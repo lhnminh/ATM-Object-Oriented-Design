@@ -11,4 +11,4 @@ I used 3 classes in order to construct this program.
 Known issue: 
 - The button is purely visual (You can press anywhere and it still works fine)
 - The GUI can look better
-- Currently no way for the ATM to have more known users.
+- Currently no way for the ATM to have more known users
