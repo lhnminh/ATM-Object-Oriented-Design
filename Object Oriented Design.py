@@ -1,12 +1,11 @@
-# The id/password: "aabuomar": "1234"
-'''CSC 161 Lab: Computers and Programs
+'''CSC 161: Object Oriented Design
 
 Minh Le
-Lab Section TR 2:00-3:15pm
 Spring 2020
 '''
 
-from graphics import GraphWin, Rectangle, Point, Text, Entry  # This is for extra credit
+#A test user: mle / 9999
+from graphics import GraphWin, Rectangle, Point, Text, Entry 
 from time import sleep
 
 
